@@ -26,6 +26,8 @@ Syntax highlighted code block
 6. Test 4
 7. Test 5
 
+10. There is another test from feature branch
+
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
