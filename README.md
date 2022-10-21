@@ -25,6 +25,7 @@ Syntax highlighted code block
 5. Test 3
 6. Test 4
 7. Test 5
+8. Test 6
 
 10. There is another test from feature branch
 
