@@ -24,6 +24,7 @@ Syntax highlighted code block
 4. Test 2
 5. Test 3
 6. Test 4
+7. Test 5
 
 **Bold** and _Italic_ and `Code` text
 
